@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!-- Hello -->
 
@@ -23,8 +23,8 @@ I am a software developer, currently working with private organization as SDE-I.
 ### My specialities:
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/icons8-flask.svg" alt="flask" width="40" height="40"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/reactjs.png" alt="React" width="40" height="40"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/javascript.png" alt="javascript" width="40" height="40"/>
 <img src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/api.svg" alt="api" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
@@ -42,13 +42,12 @@ I am a software developer, currently working with private organization as SDE-I.
 
 <!-- [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/twitter.svg" />](https://twitter.com/abhi_decode) -->
 
-[<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/linkedin.svg" />](https://www.linkedin.com/in/mayanka-gulati/)
-[<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/instagram.svg" />](https://www.instagram.com/mayankagulati)
+[<img height="30" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/LinkedIn.png" />](https://www.linkedin.com/in/mayanka-gulati/)
+[<img height="30" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/instagram.svg" />](https://www.instagram.com/mayankagulati)
+[<img height="30" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/www.svg"/>](https://mayankagulati.com)
 
 <!-- [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/hashnode-icon.svg" />](https://hashnode.com/@abhisheksaini) -->
 <!-- [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/medium.svg" />](https://abhisheksaini880.medium.com/) -->
-
-[<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/www.svg" />](https://mayankagulati.com)
 
 ---
 
@@ -58,10 +57,10 @@ I am a software developer, currently working with private organization as SDE-I.
 
 <p>
 <!-- show Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisaini880&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankaGulati&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisaini880&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankaGulati&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <!--
