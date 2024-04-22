@@ -23,8 +23,8 @@ I am a software developer, currently working with private organization as SDE-I.
 ### My specialities:
 
 <p align="left">
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/reactjs.png" alt="React" width="40" height="40"/>
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/javascript.png" alt="javascript" width="40" height="40"/>
+[<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/reactjs.png" alt="React" width="40" height="40"/>]
+[<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/javascript.png" alt="javascript" width="40" height="40"/>]
 <img src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/api.svg" alt="api" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
