@@ -23,17 +23,14 @@ I am a software developer, currently working with private organization as SDE-I.
 ### My specialities:
 
 <p align="left">
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/reactjs.svg" alt="React" width="40" height="40"/>
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/javascript.svg" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/api.svg" alt="api" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/reactjs.svg" alt="React" width="60" height="60"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/javascript.svg" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/tailwindcss.svg" alt="Tailwind" width="40" height="40"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/css.svg" alt="CSS" width="40" height="40"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/html.svg" alt="HTML" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
-<img src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/kube.png" alt="kubernetes" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/nextjs.png" alt="Nextjs" width="40" height="40"/>
+
 </p>
 
 <!-- Connect with me -->
