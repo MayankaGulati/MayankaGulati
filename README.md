@@ -1,68 +1,66 @@
-<!-- ### Hi there 👋 -->
+# Hi, I am [Mayanka Gulati](https://mayankagulati.com) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
-<!-- Hello -->
+<p id='intro'>I am a software developer, currently working with private organization as SDE-I. Experienced in UI/UX designing and developement. Passionate about learning new technologies and also sharing the knowledge acquired over the time. </p>
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am [Mayanka Gulati](https://mayankagulati.com)
-
-<!-- visitor count -->
-
-### Thanks! for visiting, You are visitor number :
-
-<p align="center" style="font-size: 20px;">
-    <img src="https://profile-counter.glitch.me/{MayankaGulati}/count.svg" alt="Visitor Count" />
-</p>
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{MayankaGulati}/count.svg) -->
-
-<!-- intro -->
-
-### Glad to See You Here! 🚀
-
+<h3>Thanks! for visiting, You are visitor number :</h3>
 <p>
-I am a software developer, currently working with private organization as SDE-I. Experienced in UI/UX designing and developement. Passionate about learning new technologies and also sharing the knowledge acquired over the time. 
+    <img src="https://profile-counter.glitch.me/{MayankaGulati}/count.svg" alt="Visitor Count"  id='count' />
 </p>
 
-<!-- languages and tools -->
-
-### My specialities:
+<h3>My specialities:</h3>
 
 <p align="left">
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/reactjs.svg" alt="React" width="40" height="40"/>
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/javascript.svg" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/tailwindcss.svg" alt="Tailwind" width="40" height="40"/>
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/css.svg" alt="CSS" width="40" height="40"/>
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/html.svg" alt="HTML" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/nextjs.png" alt="Nextjs" width="40" height="40"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/reactjs.svg" alt="React" width="40" height="40" id="icons"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/javascript.svg" alt="javascript" width="40" height="40" id="icons"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/tailwindcss.svg" alt="Tailwind" width="40" height="40" id="icons"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/css.svg" alt="CSS" width="40" height="40" id="icons"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/html.svg" alt="HTML" width="40" height="40" id="icons"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" id="icons"/>
+<img src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/nextjs.png" alt="Nextjs" width="40" height="40" id="icons"/>
 
 </p>
 
 <!-- Connect with me -->
 
-### Let's Connect! 🌐
+<h3> Let's Connect! 🌐</h3>
 
-<!-- [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/twitter.svg" />](https://twitter.com/abhi_decode) -->
+[<img height="40" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/LinkedIn.png" />](https://www.linkedin.com/in/mayanka-gulati/)
+[<img height="40" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/instagram.svg" />](https://www.instagram.com/mayankagulati)
+[<img height="40" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/www.svg"/>](https://mayankagulati.com)
 
-[<img height="30" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/LinkedIn.png" />](https://www.linkedin.com/in/mayanka-gulati/)
-[<img height="30" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/instagram.svg" />](https://www.instagram.com/mayankagulati)
-[<img height="30" src="https://github.com/MayankaGulati/MayankaGulati/blob/main/svg icons/www.svg"/>](https://mayankagulati.com)
+<h3>⚡ My GitHub Statistics</h3>
 
-<!-- [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/hashnode-icon.svg" />](https://hashnode.com/@abhisheksaini) -->
-<!-- [<img height="30" src="https://github.com/abhisaini880/abhisaini880/blob/main/svg-icons/medium.svg" />](https://abhisheksaini880.medium.com/) -->
-
----
-
-<!-- GitHub stats -->
-
-<b>⚡ My GitHub Statistics</b>
-
-<p>
-<!-- show Stats -->
+<p id="stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankaGulati&show_icons=true&hide_border=true" />
-
-<!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankaGulati&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+<style>
+
+    #count{
+        font-size: 40px;
+        backgroundColor:#fff; !important
+        color:#000; !important
+        margin:0
+    }
+
+    #intro{
+        font-size: 20px;
+    }
+    #icons{
+        margin-right:5px
+    }
+    #stats{
+        width:100%;
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between
+    }
+    h3{
+        font-size:30px
+    }
+ 
+</style>
 
 <!--
 **MayankaGulati/MayankaGulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
