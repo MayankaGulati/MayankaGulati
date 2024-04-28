@@ -1,4 +1,4 @@
-<style>
+<style> 
     #count{
         font-size: 40px;
         backgroundColor:#fff; !important
