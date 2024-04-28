@@ -20,7 +20,7 @@
         flex-direction:row;
         justify-content:space-between;
     }
-   </style>
+</style>
 
 # Hi, I am [Mayanka Gulati](https://mayankagulati.com) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
