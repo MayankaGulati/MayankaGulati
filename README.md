@@ -40,7 +40,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankaGulati&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankaGulati&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-<p>
-<img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=MayankaGulati&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats"/>
-<img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=MayankaGulati&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/>
-</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MayankaGulati&theme=dark&background=000000)](https://git.io/streak-stats)
