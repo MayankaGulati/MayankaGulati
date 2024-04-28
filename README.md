@@ -1,3 +1,27 @@
+<style>
+    #count{
+        font-size: 40px;
+        backgroundColor:#fff; !important
+        color:#000; !important
+        margin:0;
+    }
+    h3{
+        font-size:30px;
+    }
+    #intro{
+        font-size: 20px;
+    }
+    #icons{
+        margin-right:5px;
+    }
+    #stats{
+        width:100%;
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+    }
+   </style>
+
 # Hi, I am [Mayanka Gulati](https://mayankagulati.com) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
 <p id='intro'>I am a software developer, currently working with private organization as SDE-I. Experienced in UI/UX designing and developement. Passionate about learning new technologies and also sharing the knowledge acquired over the time. </p>
@@ -34,45 +58,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankaGulati&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankaGulati&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-<style>
-
-    #count{
-        font-size: 40px;
-        backgroundColor:#fff; !important
-        color:#000; !important
-        margin:0
-    }
-
-    #intro{
-        font-size: 20px;
-    }
-    #icons{
-        margin-right:5px
-    }
-    #stats{
-        width:100%;
-        display:flex;
-        flex-direction:row;
-        justify-content:space-between
-    }
-    h3{
-        font-size:30px
-    }
- 
-</style>
-
-<!--
-**MayankaGulati/MayankaGulati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
