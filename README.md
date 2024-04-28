@@ -2,13 +2,17 @@
 
 <!-- Hello -->
 
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am [Mayanka Gulati](https://mayankagulati.com)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am [Mayanka Gulati](https://mayankagulati.com)
 
 <!-- visitor count -->
 
 ### Thanks! for visiting, You are visitor number :
 
-![Visitor Count](https://profile-counter.glitch.me/{MayankaGulati}/count.svg)
+<p align="center" style="font-size: 20px;">
+    <img src="https://profile-counter.glitch.me/{MayankaGulati}/count.svg" alt="Visitor Count" />
+</p>
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{MayankaGulati}/count.svg) -->
 
 <!-- intro -->
 
